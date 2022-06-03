@@ -1,13 +1,19 @@
-## Oi! Bem vindo(a) ao meu perfil :grin:
+## Hi there! :grin:
 
-Muito prazer, sou a Gabriela, tenho 22 anos e estou atualmente cursando o terceiro ano da faculdade. Aqui embaixo vem mais algumas informações:  
+It's a pleasure to meet you! My name is Gabriela and I am 22 years old. I'm currently at my third year at university, so here it goes:  
   
-- Estudante de Ciência da Computação na Universidade Estadual de Londrina :computer:    
-- Londrina - PR :pushpin:   
+- Computer science student at State University of Londrina - [UEL]([https://pages.github.com/](https://portal.uel.br/home/)). :computer:    
+- Londrina - PR - Brazil :pushpin:   
 - Cat lover :cat::heartbeat:
+- I've got experience (mainly) with Python, Java, C, HTML and CSS.  
+
+I really enjoy Software Engineering, Formal Language and Automata and subjects that involves Python and Java projects. I also like plenty of other Computer Science fields and am ready to explore this big, vast, computer-filled world.  
+<p align="center">
+<img width="300" height="300" src="/Images/explore.gif">
+</p>
 <hr>
 
-Meus stats:  
+My stats:  
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielahirashima&count_private=true&theme=radical)
@@ -15,7 +21,7 @@ Meus stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielahirashima&count_private=true&theme=radical)]
 <hr>
 
-Entre em contato comigo:
+Find me:
 <p align="center">
   <img width="300" height="300" src="/Images/avatar.png">
 </p>
