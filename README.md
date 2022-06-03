@@ -14,7 +14,6 @@ Meus stats:
 <br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielahirashima&count_private=true&theme=radical)]
 <hr>
-Fale comigo:  
 ![My image](/Images/avatar.png)
 
 <div>
