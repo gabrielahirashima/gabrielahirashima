@@ -14,8 +14,9 @@ Meus stats:
 <br>  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielahirashima&count_private=true&theme=radical)]
 <hr>
-### Fale comigo:  
+Fale comigo:  
 ![My image](/Images/avatar.png)
+
 <div>
 <a href = "mailto:gb.hirashima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriela-hirashima-93b463171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
