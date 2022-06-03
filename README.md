@@ -4,7 +4,7 @@
   Meu nome é Gabriela Hirashima, tenho 22 anos e atualmente sou estudante de ciência da computação do terceiro ano na Universidade Estadual de Londrina. 
 </div>
 
-![My image](/Images/avatar.png | width=100)
+![My image](/Images/avatar.png | width=100px)
 
 <div>
 <a href = "mailto:gb.hirashima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
