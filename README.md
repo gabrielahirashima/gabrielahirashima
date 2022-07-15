@@ -4,7 +4,7 @@ It's a pleasure to meet you! My name is Gabriela and I am 22 years old. I'm curr
   
 - Computer Science student at State University of Londrina - [UEL](https://portal.uel.br/home/) :computer:    
 - Londrina - PR - Brazil :pushpin:   
-- I've got experience (mainly) with Python, Java, C, HTML and CSS.
+- I've got experience (mainly) with Python, Java and C. 
 - Willing to learn and help in whatever I can.  
 
 I really enjoy Software Engineering, Formal Language and Automata and subjects that involves Python and Java projects. I also like plenty of other Computer Science fields and am ready to explore this big, vast, computer-filled world.  
