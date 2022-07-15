@@ -1,6 +1,6 @@
 ## Hi there! :grin:
 
-It's a pleasure to meet you! My name is Gabriela and I am 22 years old. I'm currently at my third year at university, so here it goes:  
+It's a pleasure to meet you! My name is Gabriela and I am 22 years old. I'm currently at my fourth year at university, so here it goes:  
   
 - Computer Science student at State University of Londrina - [UEL](https://portal.uel.br/home/) :computer:    
 - Londrina - PR - Brazil :pushpin:   
