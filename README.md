@@ -7,7 +7,7 @@ It's a pleasure to meet you! My name is Gabriela and I am 22 years old. I'm curr
 - I've got experience (mainly) with Python, Java and C. 
 - Willing to learn and help in whatever I can.  
 
-I really enjoy Software Engineering, Formal Language and Automata and subjects that involves Python and Java projects. I also like plenty of other Computer Science fields and am ready to explore this big, vast, computer-filled world.  
+I have found myself really interested in networks and natural language processing those days. But I also enjoy plenty of other Computer Science fields and am ready to explore this big, vast, computer-filled world.  
 <p align="center">
 <img width="300" height="300" src="/Images/explore.gif">
 </p>
