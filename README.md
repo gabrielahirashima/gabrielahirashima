@@ -13,19 +13,3 @@ I have found myself really interested in networks and natural language processin
 </p>
 <hr>
 
-My stats:  
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielahirashima&count_private=true&theme=radical&show_icons=true)
-<br>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielahirashima&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
-
-Find me:
-<p align="center">
-  <img width="300" height="300" src="/Images/avatar.png">
-</p>
-<div align="center">
-  <a href = "mailto:gb.hirashima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-hirashima-93b463171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
