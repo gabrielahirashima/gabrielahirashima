@@ -8,7 +8,7 @@ It's a pleasure to meet you! My name is Gabriela and I am 24 years old. Here are
 - Currently working at Tectrol and Move Smart, mainly working with backend and distributed systems.
 - Willing to learn and help in whatever I can.
 
-I have found myself really interested in networks and natural language processing. But I also enjoy plenty of other Computer Science fields and am ready to explore this big, vast, computer-filled world.  
+I have found myself really interested in artificial intelligence and critical systems. But I also enjoy plenty of other Computer Science fields and am ready to explore this big, vast, computer-filled world.  
 <p align="center">
 <img width="300" height="300" src="/Images/explore.gif">
 </p>
